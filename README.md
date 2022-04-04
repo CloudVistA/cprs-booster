@@ -2,7 +2,7 @@
 
 
 ### Technology
-* https://www.autohotkey.com/docs/AutoHotkey.htm
+https://www.autohotkey.com/docs/AutoHotkey.htm
 
 
 ### Videos
